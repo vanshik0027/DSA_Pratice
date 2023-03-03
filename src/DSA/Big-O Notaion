@@ -1,0 +1,9 @@
+   
+   
+     Big-O
+     
+     1.O(1)		Constant
+     2.O(logn)	Logarithmic
+     3.O(n)		Linear
+     4.O(nlogn)	n log-star n
+     5.O(n^2)	Quadreatic

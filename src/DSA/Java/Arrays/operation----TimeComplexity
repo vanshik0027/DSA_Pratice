@@ -1,0 +1,10 @@
+
+
+  Time Complexity		Operation
+  O(1)-Constant Time	Retrieve with index
+  O(n)-Linear Time		Retrieve without index
+  O(n)					Add an element to a full array
+  O(1)					Add an Elements to the end of an Array(has space)
+  O(1)					insert or update an elements at a specific index
+  O(1)					Delete an elements by Setting it to null
+  O(n)					Delete an elements by shifting elements
