@@ -1,6 +1,6 @@
 package DSA.Java.SortAlorithms;
 
-public class SelectionSort extends ArrayBase {
+public class SelectionSort extends ArrayBaseClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

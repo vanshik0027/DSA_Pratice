@@ -1,7 +1,7 @@
 package DSA.Java.SortAlorithms;
 
-public class ArrayBase {
-	static int[] arr = { 23, 45, 1, -5, 78, 14, 90, 7 };
+public class ArrayBaseClass {
+	static int[] arr = { 23, 45, 1, -5, 78, 14, 90, 7,9 };
 
 	
 
@@ -14,7 +14,7 @@ public class ArrayBase {
 		}
 	}
 	public static void printAfterSort() {
-		System.out.println("After Sort");
+		System.out.println("\nAfter Sort");
 		for (int i = 0; i < arr.length; i++) {
 
 			System.out.print(" " + arr[i]);

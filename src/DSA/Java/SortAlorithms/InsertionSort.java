@@ -1,6 +1,6 @@
 package DSA.Java.SortAlorithms;
 
-public class InsertionSort extends ArrayBase{
+public class InsertionSort extends ArrayBaseClass{
 	public static void main(String[] args) {
 		
 		printBeforeSort();

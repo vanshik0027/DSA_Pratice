@@ -1,6 +1,6 @@
 package DSA.Java.SortAlorithms;
 
-public class BubbleSort extends ArrayBase {
+public class BubbleSort extends ArrayBaseClass {
 	public static void main(String[] args) {
 		printBeforeSort();
 		

@@ -1,6 +1,6 @@
 package DSA.Java.SortAlorithms;
 
-public class ShellSort extends ArrayBase {
+public class ShellSort extends ArrayBaseClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
