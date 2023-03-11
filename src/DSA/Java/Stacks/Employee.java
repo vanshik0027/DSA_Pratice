@@ -1,4 +1,4 @@
-package DSA.Java.Lists;
+package DSA.Java.Stacks;
 
 public class Employee {
 
@@ -49,5 +49,5 @@ public class Employee {
 				" , id= " + id +
 				'}';
 	}
-	
+
 }

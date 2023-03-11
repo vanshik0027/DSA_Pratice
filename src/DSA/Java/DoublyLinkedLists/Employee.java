@@ -1,4 +1,4 @@
-package DSA.Java.Lists;
+package DSA.Java.DoublyLinkedLists;
 
 public class Employee {
 
